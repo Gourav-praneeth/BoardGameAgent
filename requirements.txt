@@ -1,0 +1,6 @@
+openai
+streamlit
+faiss-cpu
+numpy
+tiktoken
+google.generativeai
